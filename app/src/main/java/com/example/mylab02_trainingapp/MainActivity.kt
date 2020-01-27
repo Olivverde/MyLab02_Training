@@ -74,12 +74,4 @@ class MainActivity : AppCompatActivity() {
         count.setText(t)
         pic.setImageResource(R.drawable.background)
     }
-
-
-
-
-
-
-
-
 }
